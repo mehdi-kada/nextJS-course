@@ -2,6 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+/* use this file to add css styles to all of your routes */
+/* you can import itn in any component in the application  */
 input[type='number'] {
   -moz-appearance: textfield;
   appearance: textfield;
